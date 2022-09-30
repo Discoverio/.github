@@ -1,7 +1,6 @@
 {
     "name": "Buil et test sur NodeJs",
     "description": "Lancement d'un build et des tests unitaires sur NodeJs, version 16 et 18",
-    "iconName": "example-icon",
     "categories": [
         "JavaScript",
         "TypeScript",
