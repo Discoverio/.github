@@ -1,0 +1,8 @@
+{
+    "name": "Release Package",
+    "description": "Créé un image docker dans les packages",
+    "categories": [
+        "JavaScript",
+        "TypeScript"
+    ]
+}
