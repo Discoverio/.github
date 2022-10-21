@@ -1,14 +1,31 @@
-## Hi there 👋
+# Discoverio
 
-<!--
+Discoverio est un projet fil rouge de l'année scolaire 2021-2023. Il a été mené à bien par :
 
-**Here are some ideas to get you started:**
+- Alexandre Devos
+- Simon Maniez
+- Yoann Petit
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Objectif
 
-Coucou Benoit ! <3
+L'application propose tous les jours une nouvelle activité à réaliser. L'objectif est de permettre aux utilisateurs de découvrir de nouvelles choses et de s'amuser.
+
+## Fonctionnalités
+
+- L'application propose une activité différente chaque jour
+  - Activité musicale
+
+### A venir (prochaines versions)
+
+- Ajout d'activités cinématographiques
+- Implémentation d'un profil utilisateur
+
+## Technologies
+
+### FRONT
+
+- React Native powered by Expo
+
+### BACK
+
+- NestJS
